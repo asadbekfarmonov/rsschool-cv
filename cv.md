@@ -41,7 +41,7 @@ Analytics:
 **Communication and teaching:** 
 * Google apps for education and work 
 * Math teaching experience 
-**Language:**
+ **Language:**
 * Uzbek (Native) 
 * Russian (Bilingual) 
 * English (Full Professional) 
