@@ -30,18 +30,18 @@ Math Mentor  |  October 2017– January 2020
 ### SKILLS: 
 Analytics: 
 * Basic knowledge of SQL, Microsoft Access, Excel pivot tables 
-Technical: 
-* Construction • 
+**Technical:** 
+* Construction  
 * Computer repair 
-Computer:
+**Computer:**
 * Proficient in Google Apps for Work, Adobe, Microsoft Office 
 * HTML, CSS, JS\ jQuery, Less, Python, React JS, SEO (basic)  
 * Creating Web application 
 * Back end Python 
-Communication and teaching: 
+**Communication and teaching:** 
 * Google apps for education and work 
 * Math teaching experience 
-Language:
+**Language:**
 * Uzbek (Native) 
 * Russian (Bilingual) 
 * English (Full Professional) 
