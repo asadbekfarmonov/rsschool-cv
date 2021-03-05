@@ -28,21 +28,21 @@ Math Mentor  |  October 2017– January 2020
 * Best school student award 2017 
 
 ### SKILLS: 
-Analytics: 
-* Basic knowledge of SQL, Microsoft Access, Excel pivot tables 
-**Technical:** 
-* Construction  
-* Computer repair 
-**Computer:**
-* Proficient in Google Apps for Work, Adobe, Microsoft Office 
-* HTML, CSS, JS\ jQuery, Less, Python, React JS, SEO (basic)  
-* Creating Web application 
-* Back end Python 
-**Communication and teaching:** 
-* Google apps for education and work 
-* Math teaching experience 
- **Language:**
-* Uzbek (Native) 
-* Russian (Bilingual) 
-* English (Full Professional) 
-* Korean (Elementary)
+* **Analytics:** 
+    * Basic knowledge of SQL, Microsoft Access, Excel pivot tables 
+* **Technical:** 
+    * Construction  
+    * Computer repair 
+* **Computer:**
+    * Proficient in Google Apps for Work, Adobe, Microsoft Office 
+    * HTML, CSS, JS\ jQuery, Less, Python, React JS, SEO (basic)  
+    * Creating Web application 
+    * Back end Python 
+* **Communication and teaching:** 
+    * Google apps for education and work 
+    * Math teaching experience 
+* **Language:**
+    * Uzbek (Native) 
+    * Russian (Bilingual) 
+    * English (Full Professional) 
+    * Korean (Elementary)
